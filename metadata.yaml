@@ -1,0 +1,39 @@
+_repo: After-Dark_1626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: "After Dark is a collection of six short stories by Wilkie Collins, first\
+  \ published in 1856. It was the author's first collection of short stories. Five\
+  \ of the stories were previously published in Household Words, a magazine edited\
+  \ by Charles Dickens.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1626'
+  wikidata: Q16974375
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Diary fiction'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: Leaves from Leah's diary -- The traveler's story of a terribly strange
+  bed -- The lawyer's story of a stolen letter -- The French governess's story of
+  Sister Rose -- The angler's story of the lady of Glenwith Grange -- The nun's story
+  of Gabriel's marriage -- The professor's story of the yellow mask.
+title: After Dark
+url: http://www.gutenberg.org/ebooks/1626
+wikipedia:
+- https://en.wikipedia.org/wiki/After_Dark_(short_story_collection)
